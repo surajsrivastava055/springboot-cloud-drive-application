@@ -13,7 +13,7 @@
  <h2> Tech Stack </h2>
 <b>Java | Spring Boot | Spring Data JPA | REST API | Maven | React.js </b></br>
 
-# That's all 🎊🎉 </br>
-
 ## ScreenShots
 <img src="ScreenShot/drive1.jpeg" width="100%" /><br /> <br />
+
+# That's all 🎊🎉 </br>
